@@ -3,7 +3,6 @@ layout: post
 title: Logistic Regression
 published: true
 ---
-
 Logistic Regression was utilized in the biological sciences in early
 twentieth century. It had been then utilized
 in many science applications.Logistic regression is named for the function used at the core of the method, the logistic function.Logistic Regression is
