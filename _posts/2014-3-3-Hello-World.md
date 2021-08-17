@@ -42,12 +42,12 @@ As ‘Z’ goes on to infinity, Y(predicted) will become 1 and if ‘Z’ goes t
 
 
 
-The output from the hypothesis is that the estimated
-probability. this is often wont to infer how confident can predicted
-value be actual value when given an input X. Consider the below
+The output from the hypothesis is the estimated
+probability. This is often used to infer how confident can predicted
+value be to actual value when given an input X. Consider the below
 example,
 Based on the x1 value, let’s say we obtained the estimated
-probability to be 0.8. This tells that there&#39;s 80% chance that an email are going to be spam.
+probability to be 0.8. This tells that there&#39;s 80% chance that an email is going to be spam.
 
 Mathematically this can be written as,
 
@@ -98,7 +98,7 @@ Figure 4: Convex and non-convex cost function
 
 ### **Cost function explanation**
 
-![] (https://res.cloudinary.com/dra6leodq/image/upload/v1629092529/cost_function_explanation_xf3dls.png)
+![](https://res.cloudinary.com/dra6leodq/image/upload/v1629092529/cost_function_explanation_xf3dls.png)
 
 Figure 5: Cost Function part 1
 
