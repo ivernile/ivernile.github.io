@@ -56,7 +56,7 @@ Mathematically this can be written as,
 Figure 2: Mathematical Representation
 
 This justifies the name ‘logistic regression’. Data is fit
-into rectilinear regression model, which then be acted upon by a logistic function predicting the target categorical variable .
+into linear regression model, which is then acted upon by a logistic function predicting the target categorical variable .
 
 ### **Types of Logistic Regression**
 
