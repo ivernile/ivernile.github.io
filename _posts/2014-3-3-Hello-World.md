@@ -90,6 +90,7 @@ order are often increased to get complex decision boundary.
 
 Figure 3: Cost Function of Logistic Regression
 
+
 Why cost function which has been used for linear can&#39;t be used for
 logistic?
 
