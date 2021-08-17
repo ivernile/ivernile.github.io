@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You're up and running!
+title: Logistic Regression
 published: true
 ---
 
@@ -143,4 +143,3 @@ This implementation is for binary logistic regression. For data with more than 2
 
 This post is written inorder to fulfill assignment requirement of Machine learning course and has been reused from 
 https://towardsdatascience.com/logistic-regression-detailed-overview-46c4da4303bc.
-
