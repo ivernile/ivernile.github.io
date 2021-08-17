@@ -139,11 +139,7 @@ Figure 10: Gradient Descent Algorithm part 1
 
 Figure 11: Gradient Descent part 2
 
-### **Cost vs Number_of_Iterations**
 
-![](https://res.cloudinary.com/dra6leodq/image/upload/v1629182601/cost_vs_iterr_zo2j0c.png)
-
-Figure 12: Cost Reduction
 
 
 
