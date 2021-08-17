@@ -145,9 +145,8 @@ Figure 11: Gradient Descent part 2
 
 Figure 12: Cost Reduction
 
-Train and test accuracy of the system is 100 %
 
-This implementation is for binary logistic regression. For data with more than 2 classes, softmax regression has to be used.
+
 
 This post is written inorder to fulfill assignment requirement of Machine learning course and has been reused from 
 
