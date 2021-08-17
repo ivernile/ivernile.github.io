@@ -61,10 +61,12 @@ into linear regression model, which is then acted upon by a logistic function pr
 ### **Types of Logistic Regression**
 
 1. Binary Logistic Regression
+
 The categorical response has only two 2 possible outcomes.
 Example: Spam or Not
 
 2. Multinomial Logistic Regression
+
 Three or more categories without ordering. Example: Predicting
 which food is preferred more (Veg, Non-Veg, Vegan)
 
@@ -74,23 +76,25 @@ from 1 to five
 
 ### **Decision Boundary**
 
-To predict which class a knowledge belongs, a threshold are
+To predict which class a data point belongs, a threshold is
 often set. Based upon this threshold, the obtained estimated
 probability is assessed into classes.
 Say, if predicted_value ≥ 0.5, then classify email as spam else as
 not spam.
-Decision boundary are often linear or non-linear. Polynomial
-order are often increased to urge complex decision boundary.
+Decision boundary can be linear or non-linear. Polynomial
+order are often increased to get complex decision boundary.
 
 ### **Cost Function**
 
 ![](https://res.cloudinary.com/dra6leodq/image/upload/v1629092520/cost_function_of_logistic_regression_uuk3fp.png)
 
 Figure 3: Cost Function of Logistic Regression
+
 Why cost function which has been used for linear can&#39;t be used for
 logistic?
+
 Linear regression uses mean squared error as its cost function.
-If this is often used for logistic regression, then it will be a non-convex function of parameters (theta). Gradient descent will converge into global minimum as long as the function is convex.
+If this is used for logistic regression, then it will be a non-convex function of parameters (theta). Gradient descent will converge into global minimum as long as the function is convex.
 
 ![](https://res.cloudinary.com/dra6leodq/image/upload/v1629092519/convex_and_non_convex_functions_jkepda.png)
 
@@ -136,6 +140,10 @@ Figure 10: Gradient Descent Algorithm part 1
 Figure 11: Gradient Descent part 2
 
 ### **Cost vs Number_of_Iterations**
+
+![](https://res.cloudinary.com/dra6leodq/image/upload/v1629182601/cost_vs_iterr_zo2j0c.png)
+
+Figure 12: Cost Reduction
 
 Train and test accuracy of the system is 100 %
 
